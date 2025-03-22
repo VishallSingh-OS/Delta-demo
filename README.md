@@ -1,2 +1,3 @@
 # Delta-demo
-This is demo for repository
+This is demo for repository.
+First commit
